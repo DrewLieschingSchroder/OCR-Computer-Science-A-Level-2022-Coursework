@@ -1,0 +1,69 @@
+﻿  Enemy.cpp
+C:\Users\USERTEST\source\repos\Proto1\Proto1\Enemy.cpp(17,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\USERTEST\source\repos\Proto1\Proto1\Enemy.cpp(27,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\Enemy.cpp(37,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\Enemy.cpp(110,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Flash.cpp
+C:\Users\USERTEST\source\repos\Proto1\Proto1\Flash.cpp(20,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\Flash.cpp(25,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\Flash.cpp(34,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\Flash.cpp(39,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  GUI.cpp
+C:\Users\USERTEST\source\repos\Proto1\Proto1\GUI.cpp(19,83): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\USERTEST\source\repos\Proto1\Proto1\GUI.cpp(19,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  GameOverState.cpp
+C:\Users\USERTEST\source\repos\Proto1\Proto1\GameOverState.cpp(58,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\GameOverState.cpp(60,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\GameOverState.cpp(62,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\GameOverState.cpp(69,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\GameOverState.cpp(76,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GameState.cpp
+C:\Users\USERTEST\source\repos\Proto1\Proto1\GameState.cpp(91,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USERTEST\source\repos\Proto1\Proto1\GameState.cpp(102,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USERTEST\source\repos\Proto1\Proto1\GameState.cpp(113,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USERTEST\source\repos\Proto1\Proto1\GameState.cpp(124,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USERTEST\source\repos\Proto1\Proto1\GameState.cpp(135,22): warning C4018: '<': signed/unsigned mismatch
+  LearnState.cpp
+C:\Users\USERTEST\source\repos\Proto1\Proto1\LearnState.cpp(30,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\LearnState.cpp(31,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\LearnState.cpp(32,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\LearnState.cpp(32,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\LearnState.cpp(33,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  LearnTextA.cpp
+C:\Users\USERTEST\source\repos\Proto1\Proto1\LearnTextA.cpp(23,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  LearnTextB.cpp
+C:\Users\USERTEST\source\repos\Proto1\Proto1\LearnTextB.cpp(23,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  LearnTextC.cpp
+C:\Users\USERTEST\source\repos\Proto1\Proto1\LearnTextC.cpp(23,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  LearnTextD.cpp
+C:\Users\USERTEST\source\repos\Proto1\Proto1\LearnTextD.cpp(23,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  MainMenuState.cpp
+C:\Users\USERTEST\source\repos\Proto1\Proto1\MainMenuState.cpp(37,117): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\MainMenuState.cpp(38,117): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\MainMenuState.cpp(38,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  MovingBackground.cpp
+  OptionState.cpp
+C:\Users\USERTEST\source\repos\Proto1\Proto1\OptionState.cpp(27,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\OptionState.cpp(28,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\OptionState.cpp(49,34): warning C4805: '==': unsafe mix of type 'bool' and type 'float' in operation
+C:\Users\USERTEST\source\repos\Proto1\Proto1\OptionState.cpp(51,36): warning C4805: '==': unsafe mix of type 'bool' and type 'float' in operation
+  Player.cpp
+C:\Users\USERTEST\source\repos\Proto1\Proto1\Player.cpp(17,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\Player.cpp(49,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USERTEST\source\repos\Proto1\Proto1\Player.cpp(50,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SplashState.cpp
+  main.cpp
+  Generating Code...
+  Proto1.vcxproj -> C:\Users\USERTEST\source\repos\Proto1\Debug\Proto1.exe
