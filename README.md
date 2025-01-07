@@ -6,4 +6,4 @@ The coursework is an educational game, coded in C++ using the library SFML.
 
 Resources used: w3schools.com, geekforgeeks.com, SonarSystems Youtube (learned about state machine + SFML)
 
-Project Report included
+Project Report included - DrewLieschingSchroder_OCR_ProjectReport_2022.pdf
