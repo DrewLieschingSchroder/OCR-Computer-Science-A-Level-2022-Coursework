@@ -5,3 +5,5 @@ This is the first time uploading to GitHub, so hopefully everything was uploaded
 The coursework is an educational game, coded in C++ using the library SFML.
 
 Resources used: w3schools.com, geekforgeeks.com, SonarSystems Youtube (learned about state machine + SFML)
+
+Project Report included
